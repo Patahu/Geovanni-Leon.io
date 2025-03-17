@@ -2,24 +2,24 @@ import { vba, js, react, html, css, java, violao, correr, leitura, programar, ca
 
 export const dataBase = (cor) => {
   return {
-    nome: "Sihomara Ochoa",
-    email: "sihomi2620@gmail.com",
+    nome: "Geovanni Leon",
+    email: "geovanni.leon.27@unsch.edu.pe",
     imgPerfil: 'assets/img/me.png',
     redesSociais: [{
       redeSocial: "Github ",
-      link: "https://github.com/SihomaSa",
+      link: "https://github.com/Patahu",
     },
     {
       redeSocial: "Linkedin ",
-      link: "https://www.linkedin.com/in/sihomara-sandy-ochoa-cisneros/",
+      link: "https://www.linkedin.com/in/geovannileon/",
     },
     {
       redeSocial: "Instagram ",
-      link: "https://www.instagram.com/sihomaochoa/",
+      link: "https://www.instagram.com/",
     },
     {
       redeSocial: "Currículum ",
-      link: "https://drive.google.com/file/d/1yHgoikKSymXmhIw1Tw1ZtdFUnePSQGCR/view?usp=share_link",
+      link: "",
     }],
     seta: "assets/img/seta.png",
     cards: {
@@ -65,7 +65,7 @@ export const dataBase = (cor) => {
       {
         imagem: 'https://www.unsch.edu.pe/identidad/assets/images/logo-horizontal-png-600x333.png',
         nome: 'Ingeniería de Sistemas',
-        status: '2018 - Dejado temporalmente',
+        status: '2018 - 2024',
         acessibilidade: 'Texto com a palavra: Descomplica! Descomplica é uma faculdade digital.'
       },
       {
